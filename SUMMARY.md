@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 ## old blog
-* [test] (./old-post/test.md)
+* [test ci](./old-post/test.md)
 

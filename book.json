@@ -3,7 +3,8 @@
         "hide-element",
         "chapter-fold",
         "back-to-top-button",
-        "copy-code-button"
+        "copy-code-button",
+        "pageview-count"
     ],
     "pluginsConfig": {
         "hide-element": {

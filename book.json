@@ -1,6 +1,9 @@
 {
     "plugins": [
-        "hide-element"
+        "hide-element",
+        "chapter-fold",
+        "back-to-top-button",
+        "copy-code-button"
     ],
     "pluginsConfig": {
         "hide-element": {

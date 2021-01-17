@@ -1,6 +1,8 @@
 # Summary
 
-* [Introduction](README.md)
-## old blog
-* [test ci](./old-post/test.md)
+-   [Introduction](README.md)
 
+# post
+
+-   [JS]()
+    -   [Array.prototype.reduce 使用]((./post/Array.prototype.reduce 使用.md))

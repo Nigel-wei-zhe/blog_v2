@@ -8,6 +8,10 @@
 
 ---
 
+#### gitpage 連結
+
+[blog 在這邊](https://nigel-wei-zhe.github.io/blog_v2/)
+
 #### 版本
 
 GitBook: 3.2.3

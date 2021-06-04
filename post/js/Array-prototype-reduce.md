@@ -82,9 +82,9 @@ array.reduce((acc, cur) => {
 
 ## 引用
 
-1. [Reduce - MDN](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
+1. [Reduce - MDN](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)<br>
 
-2. [以前我没得选，现在我只想用 Array.prototype.reduce](https://juejin.cn/post/6916087983808626701)
+2. [以前我没得选，现在我只想用 Array.prototype.reduce](https://juejin.cn/post/6916087983808626701)<br>
 
 ---
 

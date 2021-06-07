@@ -105,7 +105,8 @@ export default {
 
 ---
 
-參考資料
+## 參考資料
+
 [MDN-Document.createElement()](https://developer.mozilla.org/zh-TW/docs/Web/API/Document/createElement)<br>
 [VUE-渲染函数 & JSX](https://cn.vuejs.org/v2/guide/render-function.html)<br>
 [React 拾遗：React.createElement 与 JSX](https://www.jianshu.com/p/42a3ec621e94)<br>

@@ -1,7 +1,6 @@
 {
     "plugins": [
         "hide-element",
-        "chapter-fold",
         "back-to-top-button",
         "copy-code-button",
         "pageview-count"

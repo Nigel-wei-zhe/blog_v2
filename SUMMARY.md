@@ -1,10 +1,10 @@
 # Summary
 
--   [Introduction](README.md)
+-   [Nigel_lee](README.md)
 
 # post
 
--   [JS](./post/js/README.md)
+-   [JavaScript](./post/js/README.md)
     -   [Array.prototype.reduce 使用](./post/js/js_arrayPrototypeReduce.md)
 -   [Vue](./post/vue/README.md)
     -   [關於 createElement](./post/vue/vue_createElement.md)

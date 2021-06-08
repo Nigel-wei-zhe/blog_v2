@@ -1,6 +1,4 @@
-# 關於 createElement
-
----
+## 關於 createElement
 
 ### Document.createElement()
 
@@ -107,9 +105,9 @@ export default {
 
 ## 參考資料
 
-[MDN-Document.createElement()](https://developer.mozilla.org/zh-TW/docs/Web/API/Document/createElement)<br>
+[MDN-Document.createElement](https://developer.mozilla.org/zh-TW/docs/Web/API/Document/createElement)<br>
 [VUE-渲染函数 & JSX](https://cn.vuejs.org/v2/guide/render-function.html)<br>
 [React 拾遗：React.createElement 与 JSX](https://www.jianshu.com/p/42a3ec621e94)<br>
 [學會使用 Vue JSX，一車老乾媽都是你的](https://www.mdeditor.tw/pl/pZdO/zh-tw)<br>
 [Vue 函数式组件](https://juejin.cn/post/6867458052036624392)<br>
-[Vue Render Function 到 Functional Component — 建構一彈性高、易封裝的 UI Component 吧](https://medium.com/@leo36094/vue-render-function-%E5%BB%BA%E6%A7%8B%E4%B8%80%E5%BD%88%E6%80%A7%E9%AB%98-%E6%98%93%E5%B0%81%E8%A3%9D%E7%9A%84%E7%9A%84-component-%E5%90%A7-bdb2bdee46f1)<br>
+[Vue Render Function 到 Functional Component — 建構一彈性高、易封裝的 UI Component 吧](https://medium.com/@leo36094/vue-render-function-%E5%BB%BA%E6%A7%8B%E4%B8%80%E5%BD%88%E6%80%A7%E9%AB%98-%E6%98%93%E5%B0%81%E8%A3%9D%E7%9A%84%E7%9A%84-component-%E5%90%A7-bdb2bdee46f1)
